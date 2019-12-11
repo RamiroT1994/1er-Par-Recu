@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1576077749 source:d:\nueva carpeta\1er parcial lab i\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"input.h"
+
+1576079380 d:\nueva carpeta\1er parcial lab i\input.h
+	"destinos.h"
+
+1576080960 source:d:\nueva carpeta\1er parcial lab i\main.c
+	<stdio.h>
+	<stdlib.h>
+	"input.h"
+	<string.h>
+
+1576079348 source:d:\nueva carpeta\1er parcial lab i\destinos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"destinos.h"
+
+1576079472 d:\nueva carpeta\1er parcial lab i\destinos.h
+	"pilotos.h"
+
+1576079845 d:\nueva carpeta\1er parcial lab i\pilotos.h
+	"vuelos.h"
+
+1576079736 source:d:\nueva carpeta\1er parcial lab i\pilotos.c
+	<string.h>
+	"pilotos.h"
+
+1576080557 d:\nueva carpeta\1er parcial lab i\vuelos.h
+
+1576079863 source:d:\nueva carpeta\1er parcial lab i\vuelos.c
+	"vuelos.h"
+
